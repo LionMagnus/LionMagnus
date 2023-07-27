@@ -34,4 +34,4 @@ Thank you for visiting my profile. If you have any questions or would like to di
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-- 📫 You can reach me at lionmagnus@yahoo.com and https://www.linkedin.com/in/hua-wang-3137236a/
+- 📫 You can reach me at huaweiwang8@outlook.com and https://www.linkedin.com/in/hua-wang-3137236a/
